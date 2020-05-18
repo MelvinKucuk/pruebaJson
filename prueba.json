@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "12",
+      "title": "Hola",
+      "price": 42.2,
+      "currency_id": "ARS",
+      "thumbnail": 700054
+    },
+    {
+      "id": "13",
+      "title": "Chau",
+      "price": 42.2,
+      "currency_id": "ARS",
+      "thumbnail": 700054
+    },
+    {
+      "id": "1",
+      "title": "JEJE",
+      "price": 42.2,
+      "currency_id": "ARS",
+      "thumbnail": 700054
+    }
+  ]
+}
